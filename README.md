@@ -1,3 +1,2 @@
 # MD-Clone
-
-[Netlify Adresi](https://superlative-brigadeiros-fb1f8f.netlify.app)
+https://bilalatesli.github.io/bootstrap-002-md-clone-/
